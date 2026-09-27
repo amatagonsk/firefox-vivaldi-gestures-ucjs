@@ -1,5 +1,9 @@
 # mouseGestures.uc.js (Vivaldi mapping, fx-autoconfig port)
 
+<img src="https://raw.githubusercontent.com/amatagonsk/firefox-vivaldi-gestures-ucjs/master/animated_firefox-vivaldi-gestures-ucjs.avif" width="100%" />
+
+(if not animated image, youtube link [here](https://youtu.be/yrYXIpO5ffo))
+
 Right-button mouse gestures for Firefox, with Vivaldi's default gesture mapping.
 Runs at chrome level, so gestures also work on system pages
 (`about:preferences`, `about:addons`, `about:newtab`, ...).
